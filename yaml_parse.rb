@@ -9,6 +9,10 @@ mapping = YAML.load_file('yaml_mapping.yaml')
 p mapping
 
 # sequence and Mapping
-
 s_and_m = YAML.load_file('yaml_sequence_and_mapping.yaml')
 p s_and_m
+
+# Block Style
+# Flow Style
+flowStyle = YAML.load_file('yaml_flow_style.yaml')
+p flowStyle

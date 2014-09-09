@@ -1,0 +1,5 @@
+# [s1, s2]
+# {os: android}
+# languages: [java, swift, javascript]
+# [languages: {main: java, sub: ruby}, languages: {main: java, sub: ruby}]
+languages: {main: java, sub: ruby}
