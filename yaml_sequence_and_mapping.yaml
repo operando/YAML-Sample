@@ -1,0 +1,15 @@
+# sequence and Mapping
+- os: android
+  language: java
+- os: iOS
+  language: swift
+- os: Firefox OS
+  language: JavaScript
+
+# os:
+#   - android
+#   - iOS
+#   - Tizen
+# language:
+#   - java
+#   - JavaScript
