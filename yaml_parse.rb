@@ -20,3 +20,7 @@ p flowStyle
 # Data Type
 dataType = YAML.load_file('yaml_data_type.yaml')
 p dataType
+
+# strings
+strings = YAML.load_file('yaml_strings.yaml')
+p strings
