@@ -16,3 +16,7 @@ p s_and_m
 # Flow Style
 flowStyle = YAML.load_file('yaml_flow_style.yaml')
 p flowStyle
+
+# Data Type
+dataType = YAML.load_file('yaml_data_type.yaml')
+p dataType

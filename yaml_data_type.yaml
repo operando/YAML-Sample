@@ -1,0 +1,10 @@
+string: test
+number: 1
+number2: 1.1
+bool1: true
+bool2: false
+nil: null
+nil2: nil # nil => "nil"
+date: 2014-09-09
+date2: 2014/09/09 # 2014/09/09 => "2014/09/09
+numberstr: "100"
