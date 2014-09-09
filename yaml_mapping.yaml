@@ -1,0 +1,7 @@
+# Mapping (Hash)
+# key: value
+os: android
+language: java
+languages: 
+ main: java
+ sub: ruby
