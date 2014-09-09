@@ -24,3 +24,14 @@ p dataType
 # strings
 strings = YAML.load_file('yaml_strings.yaml')
 p strings
+
+# ...
+coron = YAML.load_file('yaml_coron.yaml')
+p coron
+
+# ---
+File.open('yaml_hyphen.yaml') do |f|
+    YAML.load_documents(f) do |data|
+        p data
+    end
+end
